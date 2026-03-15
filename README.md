@@ -4,7 +4,6 @@
 ## 🚀 Sobre mim:
 🎓 Atualmente cursando *Técnico em Desenvolvimento de Sistemas* pela Etec
 🌍 Possuo *Fluência no Inglês* 
-
 📚 Sempre buscando aprender mais!
 ---
 ## 🛠️ Tecnologias que estudo
