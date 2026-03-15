@@ -2,8 +2,8 @@
 💻 **Estudante de Desenvolvimento de Sistemas - Etec (Ead) | Focado emm Python, JavaScript, HTML e CSS | Me preparando para ser um grande programador!!
 ---
 ## 🚀 Sobre mim:
-🎓 Atualmente cursando *Técnico em Desenvolvimento de Sistemas* pela Etec
-🌍 Possuo *Fluência no Inglês* 
+🎓 Atualmente cursando *Técnico em Desenvolvimento de Sistemas* pela Etec |
+🌍 Possuo *Fluência no Inglês* |
 📚 Sempre buscando aprender mais!
 ---
 ## 🛠️ Tecnologias que estudo
